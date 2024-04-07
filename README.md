@@ -6,6 +6,8 @@
 
 The purpose of the project is to analyze the Citi bike rides in NYC for the month of Aug 2019 from a customer and usage standpoint and gain insights on the bikesharing business so that it can be used to help develop a business case for a bikesharing business elsewhere. 
 
+<a href="https://public.tableau.com/app/profile/teresa.le8009/viz/CitiBikeRidesChallenge/CitiBikesTripsStory">Link to Tableau Story</a>
+
 ## Results
 
 <img src="https://github.com/teresa-le/bikesharing/blob/main/Resources/Gender%20Breakdown.png">
@@ -45,4 +47,3 @@ Two additional visualizations that can be produced for future analysis include t
 * A visualization of where users ended their rides 
 
 
-<a href="https://public.tableau.com/app/profile/teresa.le8009/viz/CitiBikeRidesChallenge/CitiBikesTripsStory">Link to Tableau Story</a>
